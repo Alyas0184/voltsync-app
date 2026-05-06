@@ -1,0 +1,10 @@
+{
+  "name": "Remix: VoltFlow",
+  "description": "High-precision electrical workshop management platform featuring AI-driven demand forecasting, real-time inventory tracking, and labour work management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "inventory_management",
+    "demand_forecasting",
+    "workforce_management"
+  ]
+}
